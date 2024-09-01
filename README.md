@@ -1,0 +1,1 @@
+I've made some updates to the media queries in the project to improve the responsive design across different screen sizes. I would appreciate it if you could review these changes and provide feedback.
